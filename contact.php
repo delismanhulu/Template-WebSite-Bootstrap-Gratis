@@ -6,7 +6,7 @@
     <div class="col-lg-12 col-xl-8">
       <div class="card card-signin flex-row my-5">
         <div class="card-body">
-          <h1 class="card-title text-center">CONCACT ME</h1>
+          <h1 class="card-title text-center">Kontak Kami</h1>
           <form action="#" method="POST" class="needs-validation" novalidate>
             
           <div class="form-label-group">
